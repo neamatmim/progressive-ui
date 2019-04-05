@@ -10,7 +10,9 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
-    "typescript": "3.4.1"
+    "typescript": "3.4.1",
+    "docz": "^1.0.0-rc.8",
+    "docz-theme-default": "^1.0.0-rc.8"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -28,9 +30,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "docz": "^1.0.0-rc.8",
-    "docz-theme-default": "^1.0.0-rc.8"
-  }
+  ]
 }
