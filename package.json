@@ -31,7 +31,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "docz": "^1.0.0-rc.8",
-    "docz-theme-default": "^1.0.0-rc.8"
+    "docz": "^1.0.0",
+    "docz-theme-default": "^1.0.0"
   }
 }
