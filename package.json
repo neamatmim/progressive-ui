@@ -7,10 +7,14 @@
     "@types/node": "11.13.0",
     "@types/react": "16.8.12",
     "@types/react-dom": "16.8.3",
+    "@types/styled-components": "^4.1.14",
+    "@types/styled-system": "^4.1.0",
     "lerna": "^3.13.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
+    "styled-components": "^4.2.0",
+    "styled-system": "^4.1.0",
     "typescript": "3.4.1"
   },
   "scripts": {
